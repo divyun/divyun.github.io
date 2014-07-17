@@ -1,0 +1,13 @@
+doctype
+html
+	head
+		title Divyun.com -  The Straight Edge Gooner
+		link(rel="stylesheet" href="stylesheets/main.css")
+		link(href='http://fonts.googleapis.com/css?family=Lato|Karla' rel='stylesheet')
+	body
+		header
+			h1#logo
+				a(href="/")
+					img(src=uri+'/images/logo.png')
+		.container
+			!= yield
