@@ -549,6 +549,7 @@
   </metadata>
   <a
      id="a94"
+     target="_top"
      xlink:href="/arsenal"
      transform="translate(-2.464809,-583.17928)">
     <g
@@ -792,6 +793,7 @@
   </a>
   <a
      id="a136"
+     target="_top"
      xlink:href="#"
      transform="translate(-2.464809,-624.36173)">
     <g
@@ -822,6 +824,7 @@
   </a>
   <a
      id="a143"
+     target="_top"
      xlink:href="#"
      transform="translate(-2.464809,-624.36173)">
     <g
@@ -883,6 +886,7 @@
   </a>
   <a
      id="a157"
+     target="_top"
      xlink:href="#"
      transform="translate(-2.464809,-624.36173)">
     <g
@@ -957,6 +961,7 @@
          x="437.13083">YUN</tspan></text>
   </g>
   <a
+     target="_top"
      xlink:href="/nousfactory"
      id="a169"
      transform="translate(637.78413,337.49945)">
@@ -996,6 +1001,7 @@
        y="343.75381" /></text>
   <a
      xlink:href="/about.html"
+     target="_top"
      id="a175"
      transform="translate(-34,0)">
     <text
@@ -1018,6 +1024,7 @@
   </a>
   <a
      xlink:href="/blog"
+     target="_top"
      id="a179"
      transform="translate(-696.16622,-60.31359)">
     <text
